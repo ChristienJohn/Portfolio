@@ -14,12 +14,6 @@
   margin-left: 1040px;
 }
 
-.navbar ul li{
-  display: inline;
-  line-height: 60px;
-  padding: 10px;
-}
-
 .navbar ul li a{
   text-decoration: none;
   font-family: sans-serif;
