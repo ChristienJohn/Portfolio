@@ -47,6 +47,7 @@
 }
 
 .about{
+  color: white;
   width: 100%;
   margin-top: 100px;
   margin-bottom: 100px;
@@ -63,6 +64,13 @@
   font-family: Arial Black;
   font-size: 45px;
 }
+
+.about p{
+  margin-top: 50px;
+  font-family: sans-serif;
+}
+
+
 
 .center {
   display: block;
