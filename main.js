@@ -9,3 +9,14 @@ $('#view-work').on('click', function() {
     900
   );
 });
+
+$('#view-contact').on('click', function() {
+  const contact = $('#contact').position().top;
+
+  $('html, body').animate(
+    {
+      scrollTop: contact
+    },
+    1300
+  );
+});

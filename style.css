@@ -73,7 +73,7 @@ main {
 }
 
 .btn:hover {
-  background: #f4f4f4;
+  background: #fc4103;
 }
 
 #header {
@@ -106,6 +106,19 @@ footer {
 footer h3 {
   font-size: 3rem;
   margin-bottom: 0;
+}
+
+footer a {
+  padding: 0.5rem 2rem;
+  display: inline-block;
+  margin: 2rem 0 0;
+  text-decoration: none;
+  color: black;
+  transition: 500ms ease;
+}
+
+footer a:hover {
+  color: #fc4103;
 }
 
 /* Screen 500px and up */
