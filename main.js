@@ -17,7 +17,7 @@ $('#view-contact').on('click', function() {
     {
       scrollTop: contact
     },
-    1300
+    900
   );
 });
 
@@ -28,6 +28,6 @@ $('#view-about').on('click', function() {
     {
       scrollTop: about
     },
-    1300
+    900
   );
 });
