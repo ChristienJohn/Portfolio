@@ -21,6 +21,30 @@ h2 {
   margin: 0;
 }
 
+h4 {
+  font-weight: 400;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  margin: 0;
+}
+
+#about p {
+  text-align: left;
+  margin-left: 25px;
+  font-size: 30px;
+  margin-right: 25px;
+}
+
+#header h1 {
+  font-size: 1.2rem;
+  border-left: dotted 1px #fff;
+  border-right: dotted 1px #fff;
+  display: inline-block;
+  padding-right: 1rem;
+  padding-left: 1rem;
+
+}
+
 img {
   display: block;
   width: 100%;
@@ -49,6 +73,39 @@ main {
 
 #landing-text h2 {
   color: #888;
+}
+
+h4 {
+    text-align: left;
+    font-weight: 400;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin: 0;
+    margin-left: 25px;
+    margin-top: 45px;
+    color: #404040;
+}
+
+h5 {
+    text-align: left;
+    font-weight: 400;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin: 0;
+    margin-left: 25px;
+    margin-top: 10px;
+    color: #404040;
+}
+
+h6 {
+    text-align: left;
+    font-weight: 400;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin: 0;
+    margin-left: 25px;
+    margin-top: 10px;
+    color: #404040;
 }
 
 #landing-image {

@@ -20,3 +20,14 @@ $('#view-contact').on('click', function() {
     1300
   );
 });
+
+$('#view-about').on('click', function() {
+  const about = $('#about').position().top;
+
+  $('html, body').animate(
+    {
+      scrollTop: about
+    },
+    1300
+  );
+});
